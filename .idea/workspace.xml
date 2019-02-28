@@ -2,10 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c837c97-cc96-4213-9fd1-d047afbd5182" name="Default" comment="add questions">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ContainsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/DominantIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/DominantIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/IntToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/Intersect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/Intersect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/IsValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/IsValidSudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MaxArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MoveZeroes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/PlusOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/Rotate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RotateImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/SingleNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/array/TwoSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/TwoSum2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/huawei/Zhisu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/huawei/Zhisu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IsPalindrome_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/IsPalindrome_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IsValid_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/IsValid_20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/RoomToInt_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/RoomToInt_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/DeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/DeleteNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/list/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sortAndSearch/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sortAndSearch/Merge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/CountAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/FirstUniqChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/FirstUniqChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/IsAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/MyAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/MyAtoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/ReverseVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/ReverseVowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/string/StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/StrStr.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,27 +50,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsPopOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="28" column="22" selection-start-line="10" selection-start-column="8" selection-end-line="28" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/LeftRotateString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="504">
               <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
@@ -46,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="691">
+              <caret line="38" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,13 +70,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="312">
               <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/PrintMinNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetUglyNumber_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,6 +205,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/offer/Permutation.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/GetUglyNumber_Solution.java" />
       </list>
     </option>
   </component>
@@ -192,6 +231,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,14 +270,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551279665950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551351876438" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -260,23 +299,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoreThanHalfNum_Solution">
+  <component name="RunManager" selected="Application.PrintMinNumber">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPopOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.IsPopOrder" />
-      <module name="program" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -311,6 +336,20 @@
     </configuration>
     <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="offer.Permutation" />
+      <module name="program" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.PrintMinNumber" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -384,19 +423,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Zhisu" />
-      <item itemvalue="Application.IsPopOrder" />
       <item itemvalue="Application.LeftRotateString" />
       <item itemvalue="Application.Permutation" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.MoreThanHalfNum_Solution" />
+      <item itemvalue="Application.PrintMinNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintMinNumber" />
         <item itemvalue="Application.MoreThanHalfNum_Solution" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.LeftRotateString" />
-        <item itemvalue="Application.IsPopOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +476,8 @@
       <workItem from="1551275771986" duration="1584000" />
       <workItem from="1551277428428" duration="601000" />
       <workItem from="1551278035148" duration="219000" />
-      <workItem from="1551278264825" duration="1694000" />
+      <workItem from="1551278264825" duration="1732000" />
+      <workItem from="1551350086563" duration="1985000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -488,17 +528,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551192102245</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add questions">
+      <created>1551280083816</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551280083816</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57992000" />
+    <option name="totallyTimeSpent" value="60015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="275" y="-1308" width="1500" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19135803" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19410151" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,8 +554,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24764891" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3369906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24764891" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3369906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -884,6 +931,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -919,29 +973,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="691">
+          <caret line="38" column="5" selection-start-line="22" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
