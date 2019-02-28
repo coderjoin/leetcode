@@ -3,42 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0c837c97-cc96-4213-9fd1-d047afbd5182" name="Default" comment="add questions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ContainsDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/DominantIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/DominantIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/IntToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/IntToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/Intersect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/Intersect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/IsValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/IsValidSudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MaxArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MaxProfit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/MoveZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveDuplicates2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RemoveElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/Rotate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/Rotate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/RotateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/SingleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/array/TwoSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/array/TwoSum2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/huawei/Zhisu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/huawei/Zhisu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IsPalindrome_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/IsPalindrome_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/IsValid_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/IsValid_20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode/RoomToInt_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode/RoomToInt_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/list/DeleteNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/DeleteNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/list/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/IsPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/list/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/list/ReverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sortAndSearch/Merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sortAndSearch/Merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/CountAndSay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/FirstUniqChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/FirstUniqChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/IsAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/IsPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/MyAtoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/MyAtoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/ReverseVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/ReverseVowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string/StrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string/StrStr.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetUglyNumber_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -100,6 +55,15 @@
                 <element signature="e#157#158#0" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/HasPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="46" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -207,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/PrintMinNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/GetUglyNumber_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/HasPath.java" />
       </list>
     </option>
   </component>
@@ -275,7 +240,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551351876438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551360293419" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -299,15 +264,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintMinNumber">
+  <component name="RunManager" selected="Application.HasPath">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.LeftRotateString" />
+    <configuration name="HasPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.HasPath" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -423,19 +388,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Zhisu" />
-      <item itemvalue="Application.LeftRotateString" />
       <item itemvalue="Application.Permutation" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.MoreThanHalfNum_Solution" />
       <item itemvalue="Application.PrintMinNumber" />
+      <item itemvalue="Application.HasPath" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HasPath" />
         <item itemvalue="Application.PrintMinNumber" />
         <item itemvalue="Application.MoreThanHalfNum_Solution" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LeftRotateString" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +442,7 @@
       <workItem from="1551277428428" duration="601000" />
       <workItem from="1551278035148" duration="219000" />
       <workItem from="1551278264825" duration="1732000" />
-      <workItem from="1551350086563" duration="1985000" />
+      <workItem from="1551350086563" duration="4543000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -535,17 +500,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551280083816</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add questions">
+      <created>1551353428632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551353428632</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60015000" />
+    <option name="totallyTimeSpent" value="62573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="275" y="-1308" width="1500" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19410151" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19410151" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,7 +526,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24764891" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24764891" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3369906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1008,6 +980,13 @@
             <element signature="e#157#158#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/HasPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
