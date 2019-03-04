@@ -38,6 +38,6 @@ public class IsContinuous {
     public static void main(String[] args) {
         int[] numbers = {1,3,2,4,6};
         IsContinuous isContinuous = new IsContinuous();
-        
+
     }
 }

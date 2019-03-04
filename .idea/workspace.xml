@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c837c97-cc96-4213-9fd1-d047afbd5182" name="Default" comment="add questions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/IsContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer/IsContinuous.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/FirstNotRepeatingChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="744">
               <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
             </state>
           </provider>
@@ -25,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="552">
               <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -37,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
+            <state relative-caret-position="240">
               <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
@@ -46,7 +47,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="768">
               <caret line="33" column="26" selection-start-line="11" selection-start-column="8" selection-end-line="33" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -55,23 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
+            <state relative-caret-position="720">
               <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindGreatestSumOfSubArray.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsContinuous.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -131,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/DominantIndex.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/IntToRoman.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/array/RemoveDuplicates2.java" />
@@ -182,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/IsContinuous.java" />
       </list>
     </option>
   </component>
@@ -193,9 +191,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
-    <option name="y" value="-1256" />
-    <option name="width" value="1500" />
+    <option name="x" value="302" />
+    <option name="y" value="-1192" />
+    <option name="width" value="1440" />
     <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -206,6 +204,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,14 +243,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551600651411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551711226361" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -274,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseSentence">
+  <component name="RunManager" selected="Application.IsContinuous">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -309,8 +307,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FirstNotRepeatingChar" />
+    <configuration name="GetLeastNumbers_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.GetLeastNumbers_Solution" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -323,8 +321,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetLeastNumbers_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.GetLeastNumbers_Solution" />
+    <configuration name="IsContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.IsContinuous" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -398,19 +396,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Zhisu" />
-      <item itemvalue="Application.FirstNotRepeatingChar" />
       <item itemvalue="Application.GetLeastNumbers_Solution" />
       <item itemvalue="Application.FindNumbersWithSum" />
       <item itemvalue="Application.FindContinuousSequence" />
       <item itemvalue="Application.ReverseSentence" />
+      <item itemvalue="Application.IsContinuous" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsContinuous" />
         <item itemvalue="Application.ReverseSentence" />
         <item itemvalue="Application.FindContinuousSequence" />
         <item itemvalue="Application.FindNumbersWithSum" />
         <item itemvalue="Application.GetLeastNumbers_Solution" />
-        <item itemvalue="Application.FirstNotRepeatingChar" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +452,8 @@
       <workItem from="1551278264825" duration="1732000" />
       <workItem from="1551350086563" duration="4570000" />
       <workItem from="1551508342655" duration="10337000" />
-      <workItem from="1551590638261" duration="8023000" />
+      <workItem from="1551590638261" duration="10820000" />
+      <workItem from="1551710727911" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -540,17 +539,30 @@
       <option name="project" value="LOCAL" />
       <updated>1551524631477</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add questions">
+      <created>1551601187437</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551601187437</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add questions">
+      <created>1551612906256</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1551612906256</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80960000" />
+    <option name="totallyTimeSpent" value="84151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="-1256" width="1500" height="730" extended-state="0" />
-    <editor active="true" />
+    <frame x="302" y="-1192" width="1440" height="730" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19958848" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21101573" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -559,7 +571,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24764891" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24764891" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3369906" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -680,13 +692,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/RemoveDuplicates2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="20" selection-start-line="8" selection-start-column="8" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/array/TwoSum2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -982,6 +987,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FirstNotRepeatingChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="33" column="26" selection-start-line="11" selection-start-column="8" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/NumberOf1Between1AndN_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1014,44 +1060,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FirstNotRepeatingChar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsContinuous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="33" column="26" selection-start-line="11" selection-start-column="8" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="375">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
