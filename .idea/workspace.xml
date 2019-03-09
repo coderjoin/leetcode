@@ -14,49 +14,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="143">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="61">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/StrToInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsContinuous.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="288">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -64,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsSymmetrical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="600">
               <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="e#146#147#0" expanded="true" />
@@ -77,7 +74,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/NumberOf1Between1AndN_Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="312">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
@@ -86,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="168">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -95,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="144">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="e#167#168#0" expanded="true" />
@@ -108,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="13176">
               <caret line="582" selection-start-line="582" selection-end-line="582" />
             </state>
           </provider>
@@ -129,10 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/array/RemoveDuplicates2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/array/TwoSum2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/string/ReverseVowels.java" />
-        <option value="$PROJECT_DIR$/src/main/java/array/MaxArea.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/IsPalindrome_9.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/RoomToInt_13.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/IsValid_20.java" />
@@ -180,6 +173,10 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/IsContinuous.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/IsSymmetrical.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/InversePairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/Add.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/StrToInt.java" />
       </list>
     </option>
   </component>
@@ -191,10 +188,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="-1192" />
+    <option name="x" value="413" />
+    <option name="y" value="-1254" />
     <option name="width" value="1440" />
-    <option name="height" value="730" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -204,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,13 +238,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551967395549" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552116599139" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -272,15 +269,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InversePairs">
+  <component name="RunManager" selected="Application.Add">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FindContinuousSequence" />
+    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Add" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -293,8 +290,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNumbersWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.FindNumbersWithSum" />
+    <configuration name="FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.FindContinuousSequence" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -321,8 +318,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.IsContinuous" />
+    <configuration name="LastRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.LastRemaining_Solution" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -335,8 +332,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.ReverseSentence" />
+    <configuration name="Sum_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.Sum_Solution" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -396,19 +393,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Zhisu" />
-      <item itemvalue="Application.FindNumbersWithSum" />
       <item itemvalue="Application.FindContinuousSequence" />
-      <item itemvalue="Application.ReverseSentence" />
-      <item itemvalue="Application.IsContinuous" />
       <item itemvalue="Application.InversePairs" />
+      <item itemvalue="Application.LastRemaining_Solution" />
+      <item itemvalue="Application.Sum_Solution" />
+      <item itemvalue="Application.Add" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.Sum_Solution" />
+        <item itemvalue="Application.LastRemaining_Solution" />
         <item itemvalue="Application.InversePairs" />
         <item itemvalue="Application.FindContinuousSequence" />
-        <item itemvalue="Application.IsContinuous" />
-        <item itemvalue="Application.ReverseSentence" />
-        <item itemvalue="Application.FindNumbersWithSum" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +453,8 @@
       <workItem from="1551710727911" duration="588000" />
       <workItem from="1551854058852" duration="469000" />
       <workItem from="1551858026992" duration="567000" />
-      <workItem from="1551965229035" duration="2385000" />
+      <workItem from="1551965229035" duration="2410000" />
+      <workItem from="1552113952100" duration="2439000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -563,11 +561,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551711256153</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add questions">
+      <created>1551970281379</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1551970281379</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87766000" />
+    <option name="totallyTimeSpent" value="90230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -579,10 +584,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="-1192" width="1440" height="730" extended-state="0" />
+    <frame x="413" y="-1254" width="1440" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21816881" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -591,7 +596,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24764891" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24722663" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33649635" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -730,34 +735,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/ReverseVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/array/MaxArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/IsPalindrome_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RoomToInt_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/IsValid_20.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
@@ -1030,28 +1007,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="240">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="720">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsContinuous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="960">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/IsSymmetrical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="600">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
@@ -1062,21 +1049,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/NumberOf1Between1AndN_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="312">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="168">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="144">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
@@ -1087,25 +1074,43 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="13176">
           <caret line="582" selection-start-line="582" selection-end-line="582" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
