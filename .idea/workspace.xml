@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c837c97-cc96-4213-9fd1-d047afbd5182" name="Default" comment="add questions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/StrToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer/StrToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer/Match.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,37 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Add.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -53,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/StrToInt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="49" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="1176">
+              <caret line="49" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,17 +35,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Multiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
+            <state relative-caret-position="408">
               <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Match.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="1200">
+              <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MajorityElement_169.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SearchMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SuperEggDrop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,9 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/IsValid_20.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/LengthOfLastWord_58.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestCommonPrefix_14.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/SearchInsert.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/SearchInsert_35.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/Mysqrt_69.java" />
@@ -174,6 +175,9 @@
         <option value="$PROJECT_DIR$/src/main/java/offer/StrToInt.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/Multiply.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/Match.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement_169.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/SuperEggDrop.java" />
       </list>
     </option>
   </component>
@@ -185,10 +189,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="413" />
-    <option name="y" value="-1254" />
+    <option name="x" value="418" />
+    <option name="y" value="-1174" />
     <option name="width" value="1440" />
-    <option name="height" value="723" />
+    <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -229,6 +233,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -242,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552142376424" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552446084926" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -266,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Match">
+  <component name="RunManager" selected="Application.SearchMatrix">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -287,13 +299,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.LastRemaining_Solution" />
+    <configuration name="MajorityElement_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MajorityElement_169" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,13 +327,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.StrToInt" />
+    <configuration name="SearchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.SearchMatrix" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,8 +341,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.Sum_Solution" />
+    <configuration name="StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.StrToInt" />
       <module name="program" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -390,19 +402,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Zhisu" />
-      <item itemvalue="Application.LastRemaining_Solution" />
-      <item itemvalue="Application.Sum_Solution" />
       <item itemvalue="Application.Add" />
       <item itemvalue="Application.StrToInt" />
       <item itemvalue="Application.Match" />
+      <item itemvalue="Application.MajorityElement_169" />
+      <item itemvalue="Application.SearchMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchMatrix" />
+        <item itemvalue="Application.MajorityElement_169" />
         <item itemvalue="Application.Match" />
         <item itemvalue="Application.StrToInt" />
         <item itemvalue="Application.Add" />
-        <item itemvalue="Application.Sum_Solution" />
-        <item itemvalue="Application.LastRemaining_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +463,9 @@
       <workItem from="1551854058852" duration="469000" />
       <workItem from="1551858026992" duration="567000" />
       <workItem from="1551965229035" duration="2410000" />
-      <workItem from="1552113952100" duration="6372000" />
+      <workItem from="1552113952100" duration="6922000" />
+      <workItem from="1552313101217" duration="2025000" />
+      <workItem from="1552443857220" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -572,11 +586,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552120976624</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add questions">
+      <created>1552145987851</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1552145987851</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94163000" />
+    <option name="totallyTimeSpent" value="98507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,10 +609,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="413" y="-1254" width="1440" height="723" extended-state="0" />
+    <frame x="418" y="-1174" width="1440" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22103004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2267525" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -600,8 +621,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24722663" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33597463" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11405295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33503056" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.15328467" />
@@ -735,31 +756,16 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/SearchMatrix.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestCommonPrefix_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="32" column="19" selection-start-line="9" selection-start-column="7" selection-end-line="32" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SearchInsert_35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="22" selection-start-line="9" selection-start-column="8" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/AddBinary_67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/IsSameTree_100.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1042,6 +1048,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1067,52 +1122,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/InversePairs.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MajorityElement_169.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="552">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SearchMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="108">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/SuperEggDrop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/StrToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Multiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Match.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="216">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
