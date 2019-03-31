@@ -23,9 +23,11 @@ public class CoinChange {
     }
 
     public static void main(String[] args) {
-        int[] coins = {1, 2, 5};
-        int amount = 11;
-        CoinChange coinChange = new CoinChange();
-        System.out.println(coinChange.coinChange(coins,amount));
+//        int[] coins = {1, 2, 5};
+//        int amount = 11;
+//        CoinChange coinChange = new CoinChange();
+//        System.out.println(coinChange.coinChange(coins,amount));
+
+
     }
 }
