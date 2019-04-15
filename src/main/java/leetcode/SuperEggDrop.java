@@ -7,14 +7,24 @@ package leetcode;
 public class SuperEggDrop {
 
     public static int superEggDrop(int K, int N) {
-        return 0;
+        int[] dp = new int[K + 1];
+        for (int i = 0; i <= K ; i++) {
+            dp[i] = 1;
+        }
+        int r = 0;
+        while (dp[K] < N + 1) {
+            for (int i = K; i > 0;i--) {
+                dp[i] += dp[i - 1];
+            }
+            r++;
+        }
+        return r;
     }
 
     public static void main(String[] args) {
         int k = 2;
         int n = 6;
-        String str = "We Are Happy";
-        System.out.println(replace(str));
+        System.out.println(superEggDrop(k,n));
     }
 
 
