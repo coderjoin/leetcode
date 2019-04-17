@@ -14,18 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/self/LengthOfLongestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/self/LongestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1440">
@@ -70,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/self/FindPeakElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
+            <state relative-caret-position="344">
               <caret line="23" column="17" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/self/Search.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-23">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -121,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/offer/FindNumbersWithSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/FindContinuousSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/ReverseSentence.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/IsContinuous.java" />
@@ -172,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/main/java/self/UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/main/java/self/CanJump.java" />
         <option value="$PROJECT_DIR$/src/main/java/self/FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/self/Search.java" />
       </list>
     </option>
   </component>
@@ -239,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555502330470" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555510132070" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -465,7 +462,7 @@
       <workItem from="1555155112001" duration="10663000" />
       <workItem from="1555316457934" duration="14048000" />
       <workItem from="1555379170704" duration="13194000" />
-      <workItem from="1555499803690" duration="1515000" />
+      <workItem from="1555499803690" duration="3278000" />
     </task>
     <task id="LOCAL-00001" summary="add questions">
       <created>1543756308927</created>
@@ -663,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555470475607</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add problems">
+      <created>1555502630563</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1555502630563</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184712000" />
+    <option name="totallyTimeSpent" value="186475000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -682,7 +686,7 @@
     <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19628432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19628432" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -691,7 +695,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3511327" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3511327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28640777" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -914,13 +918,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/LastRemaining_Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/Sum_Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1287,8 +1284,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/self/FindPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
+        <state relative-caret-position="344">
           <caret line="23" column="17" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/self/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
