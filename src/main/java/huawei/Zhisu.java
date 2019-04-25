@@ -17,7 +17,6 @@ public class Zhisu {
 
         for(int i = 2; i < ulDataInput; i++){
             if(flag[i] == 0){
-
                 output.append(i+" ");
                 //System.out.println(i);
             }
