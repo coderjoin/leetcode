@@ -8,19 +8,29 @@ package huawei;
 import java.util.*;
 public class Main {
 
-    public int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a%b);
-    }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        Main main = new Main();
+        int len = 0;
+        StringBuilder sb = new StringBuilder();
+        while (sc.hasNextLine() && len < 6) {
+            String str1 = sc.nextLine();
+            String str2 = sc.nextLine();
 
-        int g = main.gcd(a, b);
-        int result = a * b / g;
-        System.out.println(result);
+            len++;
+            len++;
 
+                String str3 = str1 + str1;
+                int result = str3.indexOf(str2);
+                if (result == -1) {
+                    sb.append(0);
+                } else {
+                    sb.append(1);
+                }
+
+
+
+        }
+        System.out.println(sb.toString());
 
     }
 }

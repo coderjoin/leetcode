@@ -11,23 +11,26 @@ public class P1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String nextLine = scanner.nextLine();
-        char[] chars = nextLine.toCharArray();
-        Stack<Character> stack = new Stack<>();
-        stack.push(chars[0]);
-        int count = 0;
-        for (int i = 1; i < chars.length; i++) {
+        while (scanner.hasNextLine()) {
+            double d = scanner.nextDouble();
+            double min = 10;
+            int minn = 0;
+            int minm = 0;
 
-                if (!stack.empty() && chars[i] == stack.peek()) {
-                    stack.pop();
-                    count++;
-                } else {
-                    stack.push(chars[i]);
+            for(int n = 1; n <= 10000; n ++) {
+                for (int m = (int) d * n;m <= (d + 1) * n; m++) {
+                    double avg = (double)m/(double)n;
+                    if (min > Math.abs(avg - d)) {
+                        min = Math.abs(avg - d);
+                        minn = n;
+                        minm = m;
+                    }
                 }
-
-
+            }
+            System.out.println(minm+" "+minn);
         }
-        System.out.println(count);
+
+
     }
 
 

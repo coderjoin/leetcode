@@ -24,7 +24,6 @@ public class ZigzagLevelOrder {
 
         while (!queue.isEmpty()) {
             List<Integer> list = new ArrayList<>();
-
                 if (flag) {
                     for (TreeNode t : queue) {
                         list.add(t.val);
@@ -50,9 +49,6 @@ public class ZigzagLevelOrder {
                     }
                     count--;
                 }
-
-
-
 
 
 
