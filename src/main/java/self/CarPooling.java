@@ -1,12 +1,14 @@
 package self;
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
  * @author coderjoin
  * @date 2019-07-17 10:50
  */
 public class CarPooling {
+    public int x;
     public static boolean carPooling(int[][] trips, int capacity) {
 
         int[] array = new int[1001];
@@ -28,8 +30,13 @@ public class CarPooling {
     }
 
     public static void main(String[] args) {
-        int[][] trip = {{3,2,7},{3,7,9},{8,3,9}};
-        int capacity = 11;
-        System.out.println(carPooling(trip, capacity));
+//        int[][] trip = {{3,2,7},{3,7,9},{8,3,9}};
+//        int capacity = 11;
+        int z = 10;
+        int a ,b;
+        a = ++z;
+        b = z--;
+        System.out.println(""+z+a+b);
+
     }
 }
