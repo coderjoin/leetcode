@@ -1,6 +1,7 @@
 package self;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * @author qiaoying
@@ -34,7 +35,14 @@ public class LengthOfLIS {
 
     public static void main(String[] args) {
 
-        int[] nums = {10,9,2,5,3,7,101,18};
+//        Scanner sc = new Scanner(System.in);
+//        int num = sc.nextInt();
+//        int[] nums = new int[num];
+//        for (int i = 0; i < num; i++) {
+//            nums[i] = sc.nextInt();
+//        }
+        int[] nums = {2,1,3,2};
+        Arrays.sort(nums);
         System.out.println(lengthOfLIS(nums));
     }
 }
